@@ -139,6 +139,11 @@ img {
     width: 100%;
   }
 
+  #steps .row>.central {
+    margin-left: 0;
+    margin-right: 0;
+  }
+
   .central,
   .right {
     margin-top: 20px;
